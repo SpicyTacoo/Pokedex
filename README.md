@@ -2,6 +2,7 @@
 
 The program is a text-based Pokedex created in purely in C language. The Pokedex program has a variety of features from manually adding pokemon entries to saving all entries of the current list of pokemons. 
 
+
 **Features**
 * Add Entry - add entry of a Pokemon by providing a name(20 letters max), type(Water, Fire, Grass, or Electric), and description(50 letters max).
 * Modify Entry - modify Pokemon name, type, or description.
